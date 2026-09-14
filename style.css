@@ -3,7 +3,7 @@
   width: 200px;
   height: 200px;
   position: center;
-  background: rgb(221, 218, 234);
+  background: rgb(255, 173, 205);
 }
 
 /* width */
@@ -38,8 +38,8 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: roboto;
-    color: rgb(248, 229, 222);
-    background-color: rgb(28, 11, 5);
+    color: rgb(255	255	255);
+    background-color: rgb(255, 173, 205);
   }  
 
 .hero-image {
